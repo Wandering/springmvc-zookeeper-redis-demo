@@ -1,0 +1,6 @@
+rootProject.name = 'demo'
+include 'demo-war'
+include 'demo-service'
+include 'demo-domain'
+include 'demo-common'
+
